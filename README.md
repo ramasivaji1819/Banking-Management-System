@@ -2,12 +2,12 @@
 The Banking Management System is a Java-based application that simulates basic banking operations such as managing customers, accounts, and transactions. It uses MySQL as the database and follows a layered architecture with DAO, Service, and Model classes. The project is built using Maven for easy dependency management.
 
 # Features
-  Manage customer records (add, view, update, delete)
-  Create and manage bank accounts (deposit, withdraw, transfer)
-  Record and view transaction history
-  MySQL database integration using JDBC
-  Modular design with DAO-Service-Model structure
-  Built with Maven for portability and scalability
+  - Manage customer records (add, view, update, delete)
+  - Create and manage bank accounts (deposit, withdraw, transfer)
+  - Record and view transaction history
+  - MySQL database integration using JDBC
+  - Modular design with DAO-Service-Model structure
+  - Built with Maven for portability and scalability
 
 # Project Structure
 
@@ -34,3 +34,14 @@ The Banking Management System is a Java-based application that simulates basic b
 | Architecture      | DAO-Service-Model       |
 | IDE (Recommended) | IntelliJ IDEA / Eclipse |
 
+## 🧪 Future Enhancements
+
+- Add transaction history GUI using JSP
+
+- Implement user authentication
+
+- Add admin dashboard
+
+## 🧑‍💻 Author
+
+Developed by Rama Sivaji
